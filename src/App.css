@@ -11,15 +11,6 @@
   grid-gap: 5px;
 }
 
-.header {
-  grid-area: h;
-  background-color: greenyellow;
-}
-
-.header img {
-  width: 150px;
-}
-
 .nav {
   grid-area: n;
   background-color: burlywood;
